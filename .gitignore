@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Log files for some reason
+*.log
+
+# Crash dumps for some reason
+Crashes/*
